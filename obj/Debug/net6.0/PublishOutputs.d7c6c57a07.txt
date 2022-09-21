@@ -1,0 +1,5 @@
+C:\Users\purna\OneDrive\Dokumen\Skilvul\Coding Bootcamp\Coding Bootcamp\Calculator\bin\Debug\net6.0\publish\Calculator.exe
+C:\Users\purna\OneDrive\Dokumen\Skilvul\Coding Bootcamp\Coding Bootcamp\Calculator\bin\Debug\net6.0\publish\Calculator.dll
+C:\Users\purna\OneDrive\Dokumen\Skilvul\Coding Bootcamp\Coding Bootcamp\Calculator\bin\Debug\net6.0\publish\Calculator.deps.json
+C:\Users\purna\OneDrive\Dokumen\Skilvul\Coding Bootcamp\Coding Bootcamp\Calculator\bin\Debug\net6.0\publish\Calculator.runtimeconfig.json
+C:\Users\purna\OneDrive\Dokumen\Skilvul\Coding Bootcamp\Coding Bootcamp\Calculator\bin\Debug\net6.0\publish\Calculator.pdb
